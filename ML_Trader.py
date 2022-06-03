@@ -8,7 +8,7 @@ Created on Fri Feb 18 12:50:39 2022
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import MetaTrader5 as mt5
+import MetaTrader5 as mt5 
 from datetime import datetime
 import time
 from sklearn.preprocessing import MinMaxScaler, StandardScaler
